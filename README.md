@@ -1,5 +1,5 @@
 # legal-precedents
-A directory of markdown files that can be converted into PDF or DOCX by Pandoc
+A directory of markdown files that can be exported to DOCX, ODT and PDF.
 
 # Why?
 I wanted to just write without worrying about formatting. I did the formatting once and now its automated.
